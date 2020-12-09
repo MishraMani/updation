@@ -3133,25 +3133,25 @@
 		{
 			"dailyconfirmed": "32061",
 			"dailydeceased": "402",
-			"dailyrecovered": "36537",
+			"dailyrecovered": "36546",
 			"date": "08 December ",
 			"dateymd": "2020-12-08",
 			"totalconfirmed": "9735899",
 			"totaldeceased": "140807",
-			"totalrecovered": "9214639"
+			"totalrecovered": "9214648"
 		}
 	],
 	"statewise": [
 		{
-			"active": "377334",
-			"confirmed": "9735975",
-			"deaths": "141398",
-			"deltaconfirmed": "0",
-			"deltadeaths": "0",
+			"active": "377706",
+			"confirmed": "9736361",
+			"deaths": "141403",
+			"deltaconfirmed": "386",
+			"deltadeaths": "5",
 			"deltarecovered": "0",
-			"lastupdatedtime": "09/12/2020 07:58:02",
+			"lastupdatedtime": "09/12/2020 13:17:02",
 			"migratedother": "2437",
-			"recovered": "9214806",
+			"recovered": "9214815",
 			"state": "Total",
 			"statecode": "TT",
 			"statenotes": ""
@@ -3269,13 +3269,13 @@
 			"statenotes": ""
 		},
 		{
-			"active": "3106",
-			"confirmed": "321913",
-			"deaths": "1837",
-			"deltaconfirmed": "0",
-			"deltadeaths": "0",
+			"active": "3487",
+			"confirmed": "322299",
+			"deaths": "1842",
+			"deltaconfirmed": "386",
+			"deltadeaths": "5",
 			"deltarecovered": "0",
-			"lastupdatedtime": "08/12/2020 19:57:05",
+			"lastupdatedtime": "09/12/2020 13:17:05",
 			"migratedother": "0",
 			"recovered": "316970",
 			"state": "Odisha",
@@ -3619,29 +3619,29 @@
 			"statenotes": ""
 		},
 		{
-			"active": "23",
+			"active": "21",
 			"confirmed": "3345",
 			"deaths": "2",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "08/12/2020 20:18:08",
+			"lastupdatedtime": "09/12/2020 09:05:13",
 			"migratedother": "29",
-			"recovered": "3291",
+			"recovered": "3293",
 			"state": "Dadra and Nagar Haveli and Daman and Diu",
 			"statecode": "DN",
 			"statenotes": ""
 		},
 		{
-			"active": "205",
+			"active": "198",
 			"confirmed": "3968",
 			"deaths": "6",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "08/12/2020 14:58:08",
+			"lastupdatedtime": "09/12/2020 10:39:06",
 			"migratedother": "0",
-			"recovered": "3757",
+			"recovered": "3764",
 			"state": "Mizoram",
 			"statecode": "MZ",
 			"statenotes": ""
@@ -9135,6 +9135,26 @@
 			"totalrtpcrsamplescollectedicmrapplication": "67602704",
 			"totalsamplestested": "148814055",
 			"updatetimestamp": "08/12/2020 09:00:00"
+		},
+		{
+			"dailyrtpcrsamplescollectedicmrapplication": "461101",
+			"individualstestedperconfirmedcase": "",
+			"positivecasesfromsamplesreported": "",
+			"samplereportedtoday": "1022712",
+			"source": "twitter.com/ICMRDELHI/status/1336512573538140161/",
+			"source1": "",
+			"source3": "",
+			"testedasof": "8/12/2020",
+			"testpositivitylast7days": "",
+			"testpositivityrate": "",
+			"testsconductedbyprivatelabs": "",
+			"testsperconfirmedcase": "",
+			"testspermillion": "",
+			"totalindividualstested": "",
+			"totalpositivecases": "",
+			"totalrtpcrsamplescollectedicmrapplication": "68063805",
+			"totalsamplestested": "149836767",
+			"updatetimestamp": "09/12/2020 09:00:00"
 		}
 	]
 }
